@@ -22,7 +22,7 @@ It showcases my learning journey in HTML, CSS, and basic web development through
 🚀 Live Website
 
 🔗 View my website here:
-https://yourusername.github.io/wpd-practicals
+https://github.com/sanskrutikapse0528-create/MY-WEBSITE.git
 
 ---
 
